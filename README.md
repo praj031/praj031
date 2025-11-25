@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pritish
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on HTML/CSS/Java
+- 👀 I’m working as an Implementation Engineer
+- 🌱 I’m currently enhancing my back-end knowledge
+- 💞️ I’m looking to collaborate on HTML/CSS/Java/Spring/SpringBoot
 - 📫 Reach me at pritishraj.official@gmail.com
 
 <!---
