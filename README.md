@@ -1,104 +1,85 @@
-<!-- 
-  💡 HOW TO USE:
-  1. Create a repository named exactly 'praj031'
-  2. Add this file as README.md
-  3. Replace the banner placeholder below with your own image URL
--->
+# Pritish Raj
 
-<!-- Banner / Header Image -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x350/0d1117/58a6ff?text=👋+Welcome+to+Pritish+Raj's+GitHub+Profile" alt="GitHub Profile Banner" width="100%" />
-</p>
+**Java Backend Engineer | Microservices • Distributed Systems • AI/LLM Integration**
 
-<!-- Animated Typing Header -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Pritish+Raj!;Software+Engineer+%7C+Backend+Focused;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Solutions+at+Accenture" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Social & Contact Badges -->
-<p align="center">
-  <a href="mailto:pritishraj.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/pritish-raj-80b16215a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/pr_pritish_raj">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
-  </a>
-  <a href="https://github.com/praj031">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+📧 pritishraj.official@gmail.com | 📱 +91 9153866407 | 📍 Kolkata, India  
+💼 [LinkedIn](https://www.linkedin.com/in/pritish-raj-80b16215a) | 💻 [GitHub](https://github.com/praj031) | 📄 [Download Resume](mailto:pritishraj.official@gmail.com?subject=Resume%20Request)
 
 ---
 
-### 👨‍💻 About Me
+## TL;DR for Recruiters
 
-I'm **Pritish Raj** (he/him), a **Software Engineer** & **Implementation Engineer** based in **Kolkata, India**, currently building solutions at **Accenture**.
-
-- 🔭 **Currently focusing on:** Enhancing my back-end architecture, microservices, and enterprise Java knowledge.
-- 💻 **Daily drivers:** Java, Spring Boot, REST APIs, Oracle PL/SQL, and JDBC.
-- 🌱 **Exploring:** Advanced backend patterns, system design, and scalable API development.
-- 🤝 **Let's collaborate on:** Projects involving **HTML/CSS**, **Java**, **Spring**, or **Spring Boot** — from practice apps to production tools.
-- 🎯 **Goal:** Write clean, robust, and maintainable code that solves real business problems.
-- 📫 **Reach me at:** [pritishraj.official@gmail.com](mailto:pritishraj.official@gmail.com)
+Backend engineer with **4.8+ years** designing production-grade microservices in **banking** (10Cr+ daily transactions) and **supply chain** (500K+ daily events / 99.9% uptime). Deep expertise in **Spring Boot, Kafka, Kubernetes, and cloud-native architecture**. Currently building **LLM-integrated backends** and open to Senior Java / Backend Engineer roles.
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-<p align="center">
-  <!-- Core icons via SkillIcons (Languages, Frameworks, Tools) -->
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,idea,vscode,postman" alt="Tech Stack Icons" />
-</p>
+**Core Backend**  
+Java 8+ (Streams, Lambdas) • Spring Boot • Spring Cloud • Spring Security • Hibernate • Microservices • REST APIs • LLM Integration
 
-<p align="center">
-  <!-- Additional explicit badges for skills not covered by icons -->
-  <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle PL/SQL" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" alt="JDBC" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/OOPs-000000?style=flat-square&logo=java&logoColor=white" alt="OOPs" />
-  <img src="https://img.shields.io/badge/Web%20Services-404040?style=flat-square&logo=apache&logoColor=white" alt="Web Services" />
-</p>
+**Data & Messaging**  
+PostgreSQL • MySQL • Redis • Apache Kafka
+
+**Cloud & DevOps**  
+Docker • Kubernetes (GKE/K8s) • AWS (EC2, S3, RDS) • Jenkins • GitLab CI • Linux/Unix • Shell Scripting
+
+**Architecture & Quality**  
+System Design (HLD/LLD) • API Gateway Patterns • JWT / OAuth2 • Circuit Breakers • JUnit 5 • Mockito • TDD • SonarQube • Performance Tuning
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=praj031&show_icons=true&theme=github_dark&hide_border=true" alt="Pritish's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praj031&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+> **Pinned below my profile** for quick access.
 
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=praj031&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+### [AI-Powered Microservices Backend Platform](https://github.com/praj031/Distributed-lovable)
+A production-ready showcase of an LLM-integrated microservices backend for automated content generation and structured project scaffolding.
 
----
+- **Latency:** Sub-100ms inter-service communication via API Gateway routing patterns
+- **Security:** JWT-based authentication & Spring Security across all services
+- **Scale:** Docker + Kubernetes deployment with auto-scaling, health checks, and structured logging
+- **Architecture:** Event-driven design with Kafka, fault-tolerant modules, and centralized observability
 
-### 🌐 Let's Connect
-
-I'm always excited to connect with fellow developers, mentors, and recruiters.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pritish-raj-80b16215a/">
-    <img src="https://img.shields.io/badge/-Pritish%20Raj-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:pritishraj.official@gmail.com">
-    <img src="https://img.shields.io/badge/-pritishraj.official@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/pr_pritish_raj">
-    <img src="https://img.shields.io/badge/-@pr__pritish__raj-000000?style=flat-square&logo=X&logoColor=white" alt="Twitter / X" />
-  </a>
-</p>
+**Tech:** Java, Spring Boot, Spring Security, Kafka, LLM APIs, Docker, Kubernetes  
+🔗 [View Repository](https://github.com/praj031/Distributed-lovable)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praj031&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views" />
-</p>
+## Professional Experience
 
-<p align="center">✨ Thanks for stopping by! Have a great day! ✨</p>
+**Accenture Pvt Ltd** | *Java Developer / Business Architecture Analyst*  
+*Oct 2024 – Present | Kolkata*
+- Architected microservices for a supply chain platform processing **500K+ daily transactional events** with strict SLAs.
+- Reduced average query response time by **35%** via SQL tuning, strategic indexing, and connection pool optimization.
+- Delivered end-to-end order lifecycle workflows (creation → vendor booking → carrier assignment → tracking) across **8+ distributed services**.
+- Hardened security with JWT/OAuth2, deployed on Kubernetes with Docker, and maintained CI/CD pipelines with OpenAPI documentation.
+
+**TATA Consultancy Services** | *Java Developer / System Engineer*  
+*Jun 2021 – Oct 2024 | Bhubaneswar*
+- Built banking microservices supporting **10Cr+ secure daily transactions** with regulatory compliance.
+- Cut report generation time by **40%** optimizing stored procedures and execution plans on MySQL/PostgreSQL.
+- Designed resilient batch processing for financial reconciliation using circuit breakers and retry mechanisms.
+- Integrated **Kafka event streaming** to decouple core banking modules and improve asynchronous throughput.
+- Mentored team of 8+ engineers through code reviews, sprint planning, and quality benchmarks.
+
+---
+
+## Education & Certifications
+
+- **B.Tech in Electrical Engineering** — C.V. Raman Global University, Bhubaneswar *(CGPA: 8.0/10)*
+- **SQL** — HackerRank Certified
+- **The Complete Java Developer Course** — Udemy
+
+---
+
+## Let's Talk
+
+I'm actively interviewing for **Senior Backend Engineer** and **Java Microservices** roles.
+
+- **Email:** pritishraj.official@gmail.com *(fastest response)*
+- **LinkedIn:** [linkedin.com/in/pritish-raj-80b16215a](https://www.linkedin.com/in/pritish-raj-80b16215a)
+- **Phone:** +91 9153866407
+- **Availability:** Immediate / 15 days (flexible)
+
+---
