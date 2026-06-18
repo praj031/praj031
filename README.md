@@ -3,7 +3,7 @@
 **Java Backend Engineer | Microservices • Distributed Systems • AI/LLM Integration**
 
 📧 pritishraj.official@gmail.com | 📱 +91 9153866407 | 📍 Kolkata, India  
-💼 [LinkedIn](https://www.linkedin.com/in/pritish-raj-80b16215a) | 💻 [GitHub](https://github.com/praj031) | 📄 [Download Resume](mailto:pritishraj.official@gmail.com?subject=Resume%20Request)
+💼 [LinkedIn](https://www.linkedin.com/in/pritish-raj-80b16215a) | 💻 [GitHub](https://github.com/praj031) | 📄 [Download Resume](https://1drv.ms/b/c/5a9e404079fbcdf3/IQD3wxkc0QTVT4JsgiJdIFWzAcgB-g-vw7hlmdWFsMHqVPk?e=ZlNY1I)
 
 ---
 
